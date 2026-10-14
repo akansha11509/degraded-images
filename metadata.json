@@ -1,0 +1,8 @@
+{
+  "name": "NAFNet-SR Degraded Image Restoration",
+  "description": "Full-stack AI-based degraded image restoration system featuring NAFNet-SR neural architecture for speckle noise reduction, 2x super-resolution, out-of-range sensor dynamic range preservation, and real-time quantitative PSNR/SSIM evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
